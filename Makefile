@@ -1,7 +1,7 @@
 default: start logs
 
 service:=ms-reservations
-project:=msupandrunning
+project:=msupandrunning-ms-reservations
 
 .PHONY: start
 start:
